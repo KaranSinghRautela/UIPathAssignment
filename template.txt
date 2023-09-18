@@ -1,0 +1,9 @@
+﻿Hi
+
+This is a test email
+
+Name: Karan SIngh Rautela
+Email: karan.rautela@svam.com
+Phone Number: 9876543210
+Address: sector 127, Noida, Uttarpradesh
+Education Details: Btech Graduate
